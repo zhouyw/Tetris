@@ -1,0 +1,59 @@
+.controls {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.control-btn {
+  padding: 12px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.start-btn {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.start-btn:hover {
+  background-color: #45a049;
+  transform: scale(1.05);
+}
+
+.pause-btn {
+  background-color: #ff9800;
+  color: white;
+}
+
+.pause-btn:hover {
+  background-color: #e68900;
+  transform: scale(1.05);
+}
+
+.instructions {
+  margin-top: 30px;
+  background-color: #222;
+  border: 2px solid #444;
+  padding: 15px;
+  border-radius: 5px;
+  color: white;
+}
+
+.instructions h3 {
+  margin: 0 0 15px 0;
+  color: #aaa;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+
+.instructions p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #ccc;
+}
