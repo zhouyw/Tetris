@@ -1,0 +1,27 @@
+.game-info {
+  margin-left: 20px;
+  color: white;
+}
+
+.info-box {
+  background-color: #222;
+  border: 2px solid #444;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.info-box h3 {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  color: #aaa;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.info-value {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
